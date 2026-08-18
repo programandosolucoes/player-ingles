@@ -1,0 +1,10 @@
+[
+ {"en":"I'll take a look at it today.","pt":"Vou dar uma olhada nisso hoje."},
+ {"en":"Can you walk me through the setup?","pt":"Você pode me explicar a configuração passo a passo?"},
+ {"en":"The server has been down since yesterday.","pt":"O servidor está fora do ar desde ontem."},
+ {"en":"I don't think that's the root cause.","pt":"Eu não acho que essa seja a causa raiz."},
+ {"en":"Let me push the fix and I'll let you know.","pt":"Deixa eu subir a correção e eu te aviso."},
+ {"en":"We should have tested this before the deploy.","pt":"A gente deveria ter testado isso antes do deploy."},
+ {"en":"Could you send me the logs?","pt":"Você poderia me mandar os logs?"},
+ {"en":"It works on my machine.","pt":"Funciona na minha máquina."}
+]

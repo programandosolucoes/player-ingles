@@ -1,0 +1,13 @@
+# ambiente
+venv/
+__pycache__/
+*.pyc
+
+# áudio gerado — cache local, refaz sozinho
+aulas/
+*.mp3
+*.m4a
+*.wav
+
+# projetos e configuração local
+config.json

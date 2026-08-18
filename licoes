@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Player de Inglês.
+#   ./licoes            -> abre o player (função principal)
+#   ./licoes extrair …  -> utilitário manual de apoio, pela linha de comando
+cd "$(dirname "$(readlink -f "$0")")" || exit 1
+if [ $# -eq 0 ]; then
+    exec ./venv/bin/python app.py
+else
+    exec ./venv/bin/python cli.py "$@"
+fi
